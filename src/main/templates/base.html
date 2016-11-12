@@ -1,0 +1,79 @@
+{% load static i18n compress cookielaw_tags %}<!DOCTYPE html>
+<html lang="{{ LANGUAGE_CODE }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="{% block keywords %}{% endblock keywords %}">
+	  <meta name="description" content="{% block description %}{% endblock description %}">
+    <meta name="author" content="apsl.net">
+
+    {# TODO: Change favicon before going live #}
+    <link rel="shortcut icon" href="{% static 'web/images/favicon.png' %}">
+    <title>{% block title %}{% endblock title %}</title>
+
+    {% block css %}
+      <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+      <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+	  <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900italic,900' rel='stylesheet' type='text/css'>
+      {% compress css %}
+        <link rel="stylesheet" href="{% static "cookielaw/css/cookielaw.css"%}" />
+        <link rel="stylesheet" type="text/less" href="{% static 'main/css/main.less' %}">
+		<link rel="stylesheet" type="text/less" href="{% static 'web/main.css' %}">
+      {% endcompress %}
+    {% endblock %}
+
+    {% block page_css %}
+      {# page specific css goes here #}
+    {% endblock page_css %}
+
+    {# Google Analytics #}
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', '{{ config.GOOGLE_ANALYTICS_TRACKING_CODE }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    <script async src='//www.google-analytics.com/analytics.js'></script>
+  </head>
+
+  <body>
+    {% cookielaw_banner_js_mode %}
+
+    <div class="header navbar">
+      <div class="container">
+        <a class="navbar-brand" href="/">Project</a>
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="{% url 'home' %}">Home</a></li>
+		      <li><a href="#">{% trans "About" %}</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container">
+      {% if messages %}
+        {% for message in messages %}
+          <div class="alert{% if message.tags %} alert-{{ message.tags }}{% endif %}">{{ message }}</div>
+        {% endfor %}
+      {% endif %}
+
+      {% block content %}
+        <p>Use this document as a way to quick start any new project.</p>
+      {% endblock content %}
+    </div>
+
+    {% block modal %}{% endblock modal %}
+
+    {% block javascript %}
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+      <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+      {% compress js %}
+        <script src="{% static "cookielaw/js/cookielaw.js"%}"></script>
+        <script type="text/babel" src="{% static 'main/js/main.js' %}"></script>
+      {% endcompress %}
+    {% endblock javascript %}
+
+	  {% block page_js %}
+      {# use this block for specific page javascript #}
+	  {% endblock page_js %}
+  </body>
+</html>
