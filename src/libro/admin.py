@@ -77,9 +77,11 @@ class AvisosFilter(admin.SimpleListFilter):
         if self.value() == '-1':
             # Ya vencidos
             time_range = '12 months'
+            max = 9999
         elif self.value() == '30':
             # Vencidos o a punto de vencer
             time_range = '11 months'
+            max = 30
         elif self.value() == 'NA':
             # Socios que no han pagado nunca
             with connection.cursor() as cursor:
@@ -90,7 +92,7 @@ class AvisosFilter(admin.SimpleListFilter):
         if time_range:
             with connection.cursor() as cursor:
                 cursor.execute("""select socio_id from libro_cuota group by socio_id
-                               having date('now') > date(max(fecha), %s)""", [time_range])
+                               HAVING  (CURRENT_DATE -  max(fecha + interval %s)) between '1 days'::interval and '%s days'::interval """, [time_range, max])
                 ids = [row[0] for row in cursor.fetchall()]
             return queryset.filter(id__in=ids)
         else:
