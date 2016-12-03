@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.rulers": [
+        120
+    ],
+    "python.linting.flake8Enabled": true,
+    "python.pythonPath": "/home/aaloy/.virtualenvs/socios/bin/python3"
+}

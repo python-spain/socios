@@ -64,7 +64,7 @@ class Socio(models.Model):
         if ultima_cuota:
             delta = datetime.datetime.now() - datetime.datetime.fromordinal(
                 ultima_cuota.fecha.toordinal())
-            return 365-delta.days
+            return 365 - delta.days
         else:
             return 'NA'
 

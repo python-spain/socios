@@ -1,11 +1,20 @@
+"""
+Configuración del admin de Django
+
+"""
+
 from django.contrib import admin
-from .models import Socio, Cuota, Aviso
-from import_export import resources, fields
-from import_export.admin import ImportExportModelAdmin
 from django.db import connection
+from import_export import fields, resources
+from import_export.admin import ImportExportModelAdmin
+
+from .models import Aviso, Cuota, Socio
 
 
 class SocioResource(resources.ModelResource):
+    """
+    Clase para el filtrado de socios.
+    """
     ultimo_pago = fields.Field()
     dias = fields.Field()
 

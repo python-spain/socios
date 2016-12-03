@@ -1,0 +1,3026 @@
+[
+{
+    "model": "libro.socio",
+    "pk": 74,
+    "fields": {
+        "nsocio": "PYES-0001",
+        "dni": "21460143Q",
+        "nombre": "Francesq josep Alted Abad",
+        "telefono": "",
+        "mail": "francesc@continuum.io",
+        "fecha": "2013-12-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": "18-oct-2017 - Recordatorio pago cuota"
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 75,
+    "fields": {
+        "nsocio": "PYES-0002",
+        "dni": "43060310D",
+        "nombre": "Antoni Aloy L\u00f3pez",
+        "telefono": "+34 693368652",
+        "mail": "aaloy@apsl.net",
+        "fecha": "2014-10-03",
+        "fecha_aprobacion": null,
+        "is_junta": true,
+        "cargo": "S",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 76,
+    "fields": {
+        "nsocio": "PYES-0003",
+        "dni": "52004994Q",
+        "nombre": "Juan Luis Cano Rodr\u00edguez",
+        "telefono": "+34 646515050",
+        "mail": "juanlu001@gmail.com",
+        "fecha": "2013-12-07",
+        "fecha_aprobacion": null,
+        "is_junta": true,
+        "cargo": "P",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": "18-10-2016 Recordatorio pago cuota"
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 77,
+    "fields": {
+        "nsocio": "PYES-0004",
+        "dni": "20818027Z",
+        "nombre": "Enrique Porta Caram\u00e9s",
+        "telefono": "+34 669054538",
+        "mail": "quiqueporta@gmail.com",
+        "fecha": "2013-12-06",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 78,
+    "fields": {
+        "nsocio": "PYES-0005",
+        "dni": "36114761T",
+        "nombre": "Jes\u00fas Cea Avi\u00f3n",
+        "telefono": "+34 689320010",
+        "mail": "jcea@jcea.es",
+        "fecha": "2013-12-06",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 79,
+    "fields": {
+        "nsocio": "PYES-0006",
+        "dni": "72708737X",
+        "nombre": "Yamila Moreno Su\u00e1rez",
+        "telefono": "+34 685871483",
+        "mail": "yamila.ms@gmail.com",
+        "fecha": "2013-12-06",
+        "fecha_aprobacion": null,
+        "is_junta": true,
+        "cargo": "T",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": "18-10-2016 Recordatorio"
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 80,
+    "fields": {
+        "nsocio": "PYES-0007",
+        "dni": "47650703Q",
+        "nombre": "Ra\u00fal Cumplido Dominguez",
+        "telefono": "+44 759 751 0422",
+        "mail": "raulcumplido@gmail.com",
+        "fecha": "2015-01-06",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 81,
+    "fields": {
+        "nsocio": "PYES-0008",
+        "dni": "71347867G",
+        "nombre": "Juan Riaza Montes",
+        "telefono": "",
+        "mail": "juanriaza@gmail.com",
+        "fecha": "2013-12-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": "18-10-2016 Recordatorio"
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 82,
+    "fields": {
+        "nsocio": "PYES-0009",
+        "dni": "43622239W",
+        "nombre": "Juan Ignac\u00edo Rodr\u00edguez Le\u00f3n",
+        "telefono": "+34 605890514",
+        "mail": "euribates@gmail.com",
+        "fecha": "2015-05-13",
+        "fecha_aprobacion": null,
+        "is_junta": true,
+        "cargo": "O",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 83,
+    "fields": {
+        "nsocio": "PYES-0010",
+        "dni": "43088633L",
+        "nombre": "Francisco Correoso Garcia",
+        "telefono": "+34 607796377",
+        "mail": "kikocorreoso@gmail.com",
+        "fecha": "2013-12-12",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 84,
+    "fields": {
+        "nsocio": "PYES-0011",
+        "dni": "X3908761A",
+        "nombre": "Andrey Antukh",
+        "telefono": "+34 664282821",
+        "mail": "andrei.antoukh@gmail.com",
+        "fecha": "2013-12-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 85,
+    "fields": {
+        "nsocio": "PYES-0012",
+        "dni": "18026268H",
+        "nombre": "Fernando Jes\u00fas Salamero Pelay",
+        "telefono": "+34 667024343",
+        "mail": "fsalamero@gmail.com",
+        "fecha": "2013-12-06",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 86,
+    "fields": {
+        "nsocio": "PYES-0013",
+        "dni": "78547975P",
+        "nombre": "Jes\u00fas Espino Garcia",
+        "telefono": "+34 654962121",
+        "mail": "jespinog@gmail.com",
+        "fecha": "2014-11-18",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 87,
+    "fields": {
+        "nsocio": "PYES-0014",
+        "dni": "51998879L",
+        "nombre": "Alberto Chamorro Ruiz",
+        "telefono": "",
+        "mail": "a.chamorro.ruiz@gmail.com",
+        "fecha": "2013-12-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 88,
+    "fields": {
+        "nsocio": "PYES-0015",
+        "dni": "36106442F",
+        "nombre": "Pablo Lobari\u00f1as Criser\u00e1",
+        "telefono": "+34 636674884",
+        "mail": "plobarinas@jcea.es",
+        "fecha": "2013-12-05",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": true,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 89,
+    "fields": {
+        "nsocio": "PYES-0016",
+        "dni": "09030457J",
+        "nombre": "Guillermo Vay\u00e1 P\u00e9rez",
+        "telefono": "+34 606685120",
+        "mail": "guivaya@gmail.com",
+        "fecha": "2013-12-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 90,
+    "fields": {
+        "nsocio": "PYES-0017",
+        "dni": "44087875A",
+        "nombre": "Miguel Gonzalez Alvarez",
+        "telefono": "+34 679225217",
+        "mail": "migonzalvar@gmail.com",
+        "fecha": "2013-12-06",
+        "fecha_aprobacion": null,
+        "is_junta": true,
+        "cargo": "V",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 91,
+    "fields": {
+        "nsocio": "PYES-0018",
+        "dni": "30222039Q",
+        "nombre": "Gabriel Rodr\u00edguez Alberich",
+        "telefono": "+34 670317608",
+        "mail": "gabi@gabi.is",
+        "fecha": "2013-12-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": false,
+        "comentario": "Requerida161115, 170116, 250216 y 040416"
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 92,
+    "fields": {
+        "nsocio": "PYES-0019",
+        "dni": "50750754N",
+        "nombre": "Alejandro Guirao",
+        "telefono": "+34 ---------",
+        "mail": "lekumberri@gmail.com",
+        "fecha": "2013-12-10",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 93,
+    "fields": {
+        "nsocio": "PYES-0020",
+        "dni": "44902478S",
+        "nombre": "Marcos Perez Gonzalez",
+        "telefono": "+34 616124779",
+        "mail": "marcos.pe@gmail.com",
+        "fecha": "2013-12-12",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": "2013-12-12\t2014-11-28\t2015-12-07"
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 94,
+    "fields": {
+        "nsocio": "PYES-0021",
+        "dni": "21511293Z",
+        "nombre": "Jose Ruben Femenia Ruiz",
+        "telefono": "+34 655625045",
+        "mail": "ruben.ruiz@ua.es",
+        "fecha": "2014-03-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": "2014-03-07\t2015-03-25\t2015-02-29"
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 95,
+    "fields": {
+        "nsocio": "PYES-0022",
+        "dni": "02613091S",
+        "nombre": "Marcos Sanches Provencio",
+        "telefono": "+34 639622603",
+        "mail": "rapto@arrakis.es",
+        "fecha": "2014-03-13",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": "2014-03-13\t2015-02-16\t2016-04-06"
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 96,
+    "fields": {
+        "nsocio": "PYES-0023",
+        "dni": "07492665R",
+        "nombre": "Guillermo Lozano Branger",
+        "telefono": "+34 ---------",
+        "mail": "glozanobranger@gmail.com",
+        "fecha": "2014-03-17",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": "2014-03-17\t2015-02-18\t2016-03-14"
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 97,
+    "fields": {
+        "nsocio": "PYES-0024",
+        "dni": "35030249F",
+        "nombre": "Josep Danti Vilalta",
+        "telefono": "+34 679979884",
+        "mail": "josep.danti@gmail.com",
+        "fecha": "2014-03-28",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 98,
+    "fields": {
+        "nsocio": "PYES-0025",
+        "dni": "45101042C",
+        "nombre": "Diego Pascual Lopez",
+        "telefono": "+34 626207810",
+        "mail": "azotillo@gmail.com",
+        "fecha": "2014-04-22",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 99,
+    "fields": {
+        "nsocio": "PYES-0026",
+        "dni": "44881192G",
+        "nombre": "Mayte Gim\u00e9nez Fayos",
+        "telefono": "+34 695349302",
+        "mail": "mai@immutable.es",
+        "fecha": "2014-04-29",
+        "fecha_aprobacion": null,
+        "is_junta": true,
+        "cargo": "O",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 100,
+    "fields": {
+        "nsocio": "PYES-0027",
+        "dni": "48539560S",
+        "nombre": "Francisco Jos\u00e9 Navarro Brull",
+        "telefono": "+34 650432949",
+        "mail": "francisco.navarro@cacheme.org",
+        "fecha": "2014-05-05",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 101,
+    "fields": {
+        "nsocio": "PYES-0028",
+        "dni": "76907274N",
+        "nombre": "Lu\u00eds Ladislao Gonz\u00e1lez Fern\u00e1ndez",
+        "telefono": "+34 661772374",
+        "mail": "luisgf@luisgf.es",
+        "fecha": "2014-05-15",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 102,
+    "fields": {
+        "nsocio": "PYES-0029",
+        "dni": "30673883W",
+        "nombre": "Eduardo Ferro Aldama",
+        "telefono": "+34 659648960",
+        "mail": "eduardo.ferro.aldama@gmail.com",
+        "fecha": "2014-07-18",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 103,
+    "fields": {
+        "nsocio": "PYES-0030",
+        "dni": "78984360Z",
+        "nombre": "Jose Ignacio Galarza Becker",
+        "telefono": "+34 650810334",
+        "mail": "igalarzab@gmail.com",
+        "fecha": "2014-07-21",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 104,
+    "fields": {
+        "nsocio": "PYES-0031",
+        "dni": "50987239B",
+        "nombre": "Samuel De Ancos Martin",
+        "telefono": "+34 628462202",
+        "mail": "sdeancos@gmail.com",
+        "fecha": "2014-08-05",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 105,
+    "fields": {
+        "nsocio": "PYES-0032",
+        "dni": "20460804G",
+        "nombre": "Victor Centelles Julian",
+        "telefono": "+34 600002481",
+        "mail": "victor.centelles@gmail.com",
+        "fecha": "2014-08-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 106,
+    "fields": {
+        "nsocio": "PYES-0033",
+        "dni": "53252985G",
+        "nombre": "Marcos Gabarda Inat",
+        "telefono": "+34 661930497",
+        "mail": "marcosgabarda@gmail.com",
+        "fecha": "2014-08-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 107,
+    "fields": {
+        "nsocio": "PYES-0034",
+        "dni": "Y1431436E",
+        "nombre": "Italo Farf\u00e1n Vera",
+        "telefono": "+34 644167724",
+        "mail": "italofarve@gmail.com",
+        "fecha": "2014-08-21",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": "comprobar con Yami si est\u00e1"
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 108,
+    "fields": {
+        "nsocio": "PYES-0035",
+        "dni": "76973924P",
+        "nombre": "David Francos Cuartero",
+        "telefono": "+34 687687892",
+        "mail": "me@davidfrancos.net",
+        "fecha": "2014-09-01",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": false,
+        "comentario": "requerida090915 y 051015 y 011115"
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 109,
+    "fields": {
+        "nsocio": "PYES-0036",
+        "dni": "24385875X",
+        "nombre": "Salvador Mari Alarcon",
+        "telefono": "+34 687355321",
+        "mail": "saruba@gmail.com",
+        "fecha": "2014-09-05",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 110,
+    "fields": {
+        "nsocio": "PYES-0037",
+        "dni": "33344853M",
+        "nombre": "Francisco de Borja Lopez Rio",
+        "telefono": "+34 630134013",
+        "mail": "borja@codigo23.net",
+        "fecha": "2014-09-25",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 111,
+    "fields": {
+        "nsocio": "PYES-0038",
+        "dni": "33341437Q",
+        "nombre": "Oscar M. Lage",
+        "telefono": "+34 620981274",
+        "mail": "info@oscarmlage.com",
+        "fecha": "2014-10-02",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 112,
+    "fields": {
+        "nsocio": "PYES-0039",
+        "dni": "75158753C",
+        "nombre": "Victor Terr\u00f3n Salas",
+        "telefono": "",
+        "mail": "quintanar@gmail.com",
+        "fecha": "2014-11-11",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 113,
+    "fields": {
+        "nsocio": "PYES-0040",
+        "dni": "43121997X",
+        "nombre": "Eduardo Erraiz Aparicio",
+        "telefono": "+34 653114788",
+        "mail": "gshark@gmail.com",
+        "fecha": "2014-12-08",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 114,
+    "fields": {
+        "nsocio": "PYES-0041",
+        "dni": "46657856X",
+        "nombre": "N\u00faria Pujol Vilanova",
+        "telefono": "+34 605330174",
+        "mail": "nuriapujolvilanova@gmail.com",
+        "fecha": "2014-12-18",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 115,
+    "fields": {
+        "nsocio": "PYES-0042",
+        "dni": "48562583S",
+        "nombre": "Julio Vicente Trigo Guijarro",
+        "telefono": "+44 7717390757",
+        "mail": "julio.trigo@gmail.com",
+        "fecha": "2015-03-23",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 116,
+    "fields": {
+        "nsocio": "PYES-0043",
+        "dni": "33466494E",
+        "nombre": "Javier Palanca C\u00e1mara",
+        "telefono": "+34 635531693",
+        "mail": "jpalanca@gmail.com",
+        "fecha": "2015-04-20",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 117,
+    "fields": {
+        "nsocio": "PYES-0044",
+        "dni": "44838452K",
+        "nombre": "David Vazquez Loureiro",
+        "telefono": "+34 663830478",
+        "mail": "david.vazquez.l@me.com",
+        "fecha": "2015-06-19",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 118,
+    "fields": {
+        "nsocio": "PYES-0045",
+        "dni": "73390343B",
+        "nombre": "Victor Borr\u00e0s Castell",
+        "telefono": "+34 696809319",
+        "mail": "vborrasc@gmail.com",
+        "fecha": "2015-08-12",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 119,
+    "fields": {
+        "nsocio": "PYES-0046",
+        "dni": "48615409X",
+        "nombre": "Salvador de la Puente Gonz\u00e1lez",
+        "telefono": "+34 699939842",
+        "mail": "salva@unoyunodiez.com",
+        "fecha": "2015-09-17",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 120,
+    "fields": {
+        "nsocio": "PYES-0047",
+        "dni": "36172227N",
+        "nombre": "Pablo V\u00e1zquez Rodr\u00edguez",
+        "telefono": "+34 620465638",
+        "mail": "pablo.vazquez.dev@gmail.com",
+        "fecha": "2015-11-24",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 121,
+    "fields": {
+        "nsocio": "PYES-0048",
+        "dni": "33461105S",
+        "nombre": "Pedro Juan Ferrer Matoses",
+        "telefono": "+34 656346183",
+        "mail": "vehrka@gmail.com",
+        "fecha": "2015-11-24",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 122,
+    "fields": {
+        "nsocio": "PYES-0049",
+        "dni": "36109850B",
+        "nombre": "Alejandro Hermida Rodr\u00edguez",
+        "telefono": "+34 630911659",
+        "mail": "alexhermida@gmail.com",
+        "fecha": "2015-11-24",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 123,
+    "fields": {
+        "nsocio": "PYES-0050",
+        "dni": "43629162W",
+        "nombre": "Ferran Josep Luengo Lopez",
+        "telefono": "+34 645768392",
+        "mail": "luencio@gmail.com",
+        "fecha": "2015-11-24",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 124,
+    "fields": {
+        "nsocio": "PYES-0051",
+        "dni": "74730484B",
+        "nombre": "Miguel S\u00e1nchez Rodr\u00edguez",
+        "telefono": "",
+        "mail": "miguelsr87@gmail.com",
+        "fecha": "2015-11-24",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 125,
+    "fields": {
+        "nsocio": "PYES-0052",
+        "dni": "53015882P",
+        "nombre": "Carlos Trijueque Albarran",
+        "telefono": "",
+        "mail": "mail@ctrijueque.com",
+        "fecha": "2015-11-24",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 126,
+    "fields": {
+        "nsocio": "PYES-0053",
+        "dni": "78688240L",
+        "nombre": "David Barrag\u00e1n Merino",
+        "telefono": "+34 634573186",
+        "mail": "bameda@dbarragan.com",
+        "fecha": "2015-11-25",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 127,
+    "fields": {
+        "nsocio": "PYES-0054",
+        "dni": "78798024R",
+        "nombre": "Jos\u00e9 Antonio Rocamonde Quintela",
+        "telefono": "+34 698164489",
+        "mail": "jrocamonde@gmail.com",
+        "fecha": "2015-11-26",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 128,
+    "fields": {
+        "nsocio": "PYES-0055",
+        "dni": "45581069Z",
+        "nombre": "Diego Jes\u00fas Mart\u00ednez Garc\u00eda",
+        "telefono": "+34 619337672",
+        "mail": "apussapus@gmail.com",
+        "fecha": "2015-11-26",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 129,
+    "fields": {
+        "nsocio": "PYES-0056",
+        "dni": "70077519S",
+        "nombre": "Alejandro Saez Mollejo",
+        "telefono": "",
+        "mail": "alex.saez.12@gmail.com",
+        "fecha": "2015-12-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 130,
+    "fields": {
+        "nsocio": "PYES-0057",
+        "dni": "53937903M",
+        "nombre": "Hern\u00e1n Octavio Mart\u00ednez-Foffani Silva",
+        "telefono": "+34 652278742",
+        "mail": "hfoffani@gmail.com",
+        "fecha": "2015-12-16",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 131,
+    "fields": {
+        "nsocio": "PYES-0058",
+        "dni": "28628577V",
+        "nombre": "Ana Isabel Rey Botello",
+        "telefono": "+34 639292752",
+        "mail": "anarey@gmail.com",
+        "fecha": "2015-12-31",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 132,
+    "fields": {
+        "nsocio": "PYES-0059",
+        "dni": "44392793X",
+        "nombre": "Jose Antonio Martin Prieto",
+        "telefono": "+34 626854573",
+        "mail": "jantonio.martin@gmail.com",
+        "fecha": "2013-12-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 133,
+    "fields": {
+        "nsocio": "PYES-0060",
+        "dni": "09732171C",
+        "nombre": "Javier Tamarit Villafranca",
+        "telefono": "+34 609111330",
+        "mail": "javtamvi@gmail.com",
+        "fecha": "2013-12-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 134,
+    "fields": {
+        "nsocio": "PYES-0061",
+        "dni": "43179969E",
+        "nombre": "Joan Marc Tudur\u00ed Cladera",
+        "telefono": "+34 606188290",
+        "mail": "marctc@gmail.com",
+        "fecha": "2013-12-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 135,
+    "fields": {
+        "nsocio": "PYES-0062",
+        "dni": "18221714X",
+        "nombre": "Andreu Vallbona Plazas",
+        "telefono": "+34 606519330",
+        "mail": "avallbona@gmail.com",
+        "fecha": "2013-12-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 136,
+    "fields": {
+        "nsocio": "PYES-0063",
+        "dni": "21673854B",
+        "nombre": "Claudia Guirao Fern\u00e1ndez",
+        "telefono": "+34 629906569",
+        "mail": "guirao.claudia@gmail.com",
+        "fecha": "2013-12-07",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 137,
+    "fields": {
+        "nsocio": "PYES-0064",
+        "dni": "X2088768T",
+        "nombre": "MAT\u00cdAS PIZARRO",
+        "telefono": "+34 626 636 122",
+        "mail": "matias@pizarro.net",
+        "fecha": "2016-05-17",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 138,
+    "fields": {
+        "nsocio": "PYES-0065",
+        "dni": "720611180M",
+        "nombre": "Vital Guti\u00e9rrez Fern\u00e1ndez",
+        "telefono": "",
+        "mail": "vital.fernandez@gmail.com",
+        "fecha": "2016-05-20",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 139,
+    "fields": {
+        "nsocio": "PYES-0066",
+        "dni": "79031782X",
+        "nombre": "Juan Antonio Oyag\u00fce Cobelas",
+        "telefono": "+34 664693712",
+        "mail": "contacto@nekmo.com",
+        "fecha": "2016-06-01",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 140,
+    "fields": {
+        "nsocio": "PYES-0067",
+        "dni": "16.583.343-K",
+        "nombre": "Javier Becerra Elcinto",
+        "telefono": "680257524",
+        "mail": "javier@panoimagen.com",
+        "fecha": "2016-06-17",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 141,
+    "fields": {
+        "nsocio": "PYES-0068",
+        "dni": "43073762Y",
+        "nombre": "Juan Jos\u00e9 Moreno Mart\u00ednez",
+        "telefono": "605314642",
+        "mail": "jjmoreno@apsl.net",
+        "fecha": "2016-06-30",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 142,
+    "fields": {
+        "nsocio": "PYES-0069",
+        "dni": "X6118718M",
+        "nombre": "Bob Michael Belderbos",
+        "telefono": "657774514",
+        "mail": "bobbelderbos@gmail.com",
+        "fecha": "2016-07-04",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 143,
+    "fields": {
+        "nsocio": "PYES-0070",
+        "dni": "43123219J",
+        "nombre": "MARIA ANTONIA TUGORES PONS",
+        "telefono": "",
+        "mail": "antoniatugores@gmail.com",
+        "fecha": "2016-07-28",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 144,
+    "fields": {
+        "nsocio": "PYES-0071",
+        "dni": "09204648W",
+        "nombre": "MARIO CORCHERO",
+        "telefono": "00 44 7596 207389",
+        "mail": "mariocj89@gmail.com",
+        "fecha": "2016-07-27",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 145,
+    "fields": {
+        "nsocio": "PYES-0072",
+        "dni": "51446864G",
+        "nombre": "Raquel Garc\u00eda Bautista",
+        "telefono": "649324071",
+        "mail": "rachgb@gmail.com",
+        "fecha": "2016-08-21",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 146,
+    "fields": {
+        "nsocio": "PYES-0073",
+        "dni": "02913766B",
+        "nombre": "Javier Aguirre",
+        "telefono": "676287179",
+        "mail": "javi@javaguirre.net",
+        "fecha": "2016-08-29",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 147,
+    "fields": {
+        "nsocio": "PYES-0074",
+        "dni": "50849172J",
+        "nombre": "Joan Grande",
+        "telefono": "661815906",
+        "mail": "totaler@gmail.com",
+        "fecha": "2016-10-08",
+        "fecha_aprobacion": "2016-10-08",
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": true,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 148,
+    "fields": {
+        "nsocio": "PYES-0075",
+        "dni": "48508905L",
+        "nombre": "Manuel Garrido Pe\u00f1a",
+        "telefono": "606844861",
+        "mail": "manuel.garrido.pena@gmail.com",
+        "fecha": "2016-10-10",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": false,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 149,
+    "fields": {
+        "nsocio": "PYES-0076",
+        "dni": "75572325Y",
+        "nombre": "Israel Blancas \u00c1lvarez",
+        "telefono": "630271564",
+        "mail": "iblancasa@gmail.com",
+        "fecha": "2016-10-15",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": false,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.socio",
+    "pk": 150,
+    "fields": {
+        "nsocio": "PYES-0077",
+        "dni": "75714772Z",
+        "nombre": "Crist\u00f3bal Contreras Rubio",
+        "telefono": "",
+        "mail": "crisconru@gmail.com",
+        "fecha": "2016-10-25",
+        "fecha_aprobacion": null,
+        "is_junta": false,
+        "cargo": "-",
+        "is_fundador": false,
+        "is_activo": false,
+        "comentario": ""
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 1,
+    "fields": {
+        "socio": 74,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 2,
+    "fields": {
+        "socio": 76,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 3,
+    "fields": {
+        "socio": 79,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 4,
+    "fields": {
+        "socio": 81,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 5,
+    "fields": {
+        "socio": 82,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 6,
+    "fields": {
+        "socio": 84,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 7,
+    "fields": {
+        "socio": 87,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 8,
+    "fields": {
+        "socio": 92,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 9,
+    "fields": {
+        "socio": 94,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 10,
+    "fields": {
+        "socio": 98,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 11,
+    "fields": {
+        "socio": 99,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 12,
+    "fields": {
+        "socio": 100,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 13,
+    "fields": {
+        "socio": 101,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 14,
+    "fields": {
+        "socio": 102,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 15,
+    "fields": {
+        "socio": 103,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 16,
+    "fields": {
+        "socio": 104,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 17,
+    "fields": {
+        "socio": 106,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 18,
+    "fields": {
+        "socio": 109,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 19,
+    "fields": {
+        "socio": 110,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 20,
+    "fields": {
+        "socio": 111,
+        "fecha": "2016-10-18",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 21,
+    "fields": {
+        "socio": 116,
+        "fecha": "2016-10-19",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 22,
+    "fields": {
+        "socio": 117,
+        "fecha": "2016-10-19",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 23,
+    "fields": {
+        "socio": 119,
+        "fecha": "2016-10-19",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 24,
+    "fields": {
+        "socio": 112,
+        "fecha": "2016-10-20",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 25,
+    "fields": {
+        "socio": 129,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 26,
+    "fields": {
+        "socio": 128,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 27,
+    "fields": {
+        "socio": 127,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 28,
+    "fields": {
+        "socio": 126,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 29,
+    "fields": {
+        "socio": 125,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 30,
+    "fields": {
+        "socio": 124,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 31,
+    "fields": {
+        "socio": 123,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 32,
+    "fields": {
+        "socio": 122,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 33,
+    "fields": {
+        "socio": 121,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 34,
+    "fields": {
+        "socio": 120,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 35,
+    "fields": {
+        "socio": 113,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 36,
+    "fields": {
+        "socio": 85,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 37,
+    "fields": {
+        "socio": 119,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 38,
+    "fields": {
+        "socio": 117,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 39,
+    "fields": {
+        "socio": 111,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 40,
+    "fields": {
+        "socio": 104,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 41,
+    "fields": {
+        "socio": 103,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 42,
+    "fields": {
+        "socio": 102,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 43,
+    "fields": {
+        "socio": 101,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 44,
+    "fields": {
+        "socio": 100,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 45,
+    "fields": {
+        "socio": 98,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 46,
+    "fields": {
+        "socio": 94,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.aviso",
+    "pk": 47,
+    "fields": {
+        "socio": 82,
+        "fecha": "2016-10-27",
+        "comentario": null
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 1,
+    "fields": {
+        "socio": 75,
+        "fecha": "2014-03-10",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 2,
+    "fields": {
+        "socio": 75,
+        "fecha": "2015-02-10",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 3,
+    "fields": {
+        "socio": 75,
+        "fecha": "2016-10-01",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 4,
+    "fields": {
+        "socio": 76,
+        "fecha": "2013-12-07",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 5,
+    "fields": {
+        "socio": 76,
+        "fecha": "2014-11-25",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 6,
+    "fields": {
+        "socio": 76,
+        "fecha": "2015-11-18",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 7,
+    "fields": {
+        "socio": 77,
+        "fecha": "2013-12-06",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 8,
+    "fields": {
+        "socio": 77,
+        "fecha": "2015-01-08",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 9,
+    "fields": {
+        "socio": 77,
+        "fecha": "2016-01-20",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 10,
+    "fields": {
+        "socio": 78,
+        "fecha": "2013-12-06",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 11,
+    "fields": {
+        "socio": 78,
+        "fecha": "2014-11-18",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 12,
+    "fields": {
+        "socio": 78,
+        "fecha": "2016-01-08",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 13,
+    "fields": {
+        "socio": 79,
+        "fecha": "2013-12-06",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 14,
+    "fields": {
+        "socio": 79,
+        "fecha": "2013-11-18",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 15,
+    "fields": {
+        "socio": 79,
+        "fecha": "2015-11-17",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 16,
+    "fields": {
+        "socio": 80,
+        "fecha": "2015-01-06",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 17,
+    "fields": {
+        "socio": 80,
+        "fecha": "2016-01-25",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 18,
+    "fields": {
+        "socio": 82,
+        "fecha": "2015-05-13",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 19,
+    "fields": {
+        "socio": 83,
+        "fecha": "2013-12-12",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 20,
+    "fields": {
+        "socio": 83,
+        "fecha": "2014-12-25",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 21,
+    "fields": {
+        "socio": 83,
+        "fecha": "2015-12-01",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 22,
+    "fields": {
+        "socio": 85,
+        "fecha": "2013-12-06",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 23,
+    "fields": {
+        "socio": 85,
+        "fecha": "2015-01-08",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 24,
+    "fields": {
+        "socio": 85,
+        "fecha": "2015-11-23",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 25,
+    "fields": {
+        "socio": 86,
+        "fecha": "2014-11-18",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 26,
+    "fields": {
+        "socio": 86,
+        "fecha": "2016-01-19",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 27,
+    "fields": {
+        "socio": 88,
+        "fecha": "2013-12-05",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 28,
+    "fields": {
+        "socio": 88,
+        "fecha": "2014-11-18",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 29,
+    "fields": {
+        "socio": 88,
+        "fecha": "2015-12-02",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 30,
+    "fields": {
+        "socio": 89,
+        "fecha": "2013-12-07",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 31,
+    "fields": {
+        "socio": 89,
+        "fecha": "2014-11-18",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 32,
+    "fields": {
+        "socio": 89,
+        "fecha": "2016-01-20",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 33,
+    "fields": {
+        "socio": 90,
+        "fecha": "2013-12-06",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 34,
+    "fields": {
+        "socio": 90,
+        "fecha": "2014-12-16",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 35,
+    "fields": {
+        "socio": 90,
+        "fecha": "2016-01-12",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 36,
+    "fields": {
+        "socio": 91,
+        "fecha": "2013-12-07",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 37,
+    "fields": {
+        "socio": 91,
+        "fecha": "2014-11-18",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 38,
+    "fields": {
+        "socio": 92,
+        "fecha": "2013-12-10",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 39,
+    "fields": {
+        "socio": 92,
+        "fecha": "2014-11-28",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 40,
+    "fields": {
+        "socio": 92,
+        "fecha": "2015-11-19",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 41,
+    "fields": {
+        "socio": 93,
+        "fecha": "2013-12-12",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 42,
+    "fields": {
+        "socio": 93,
+        "fecha": "2014-11-28",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 43,
+    "fields": {
+        "socio": 93,
+        "fecha": "2015-12-07",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 44,
+    "fields": {
+        "socio": 94,
+        "fecha": "2014-03-07",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 45,
+    "fields": {
+        "socio": 94,
+        "fecha": "2015-03-25",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 46,
+    "fields": {
+        "socio": 94,
+        "fecha": "2015-02-28",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 47,
+    "fields": {
+        "socio": 95,
+        "fecha": "2014-03-13",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 48,
+    "fields": {
+        "socio": 95,
+        "fecha": "2015-02-16",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 49,
+    "fields": {
+        "socio": 95,
+        "fecha": "2016-04-06",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 50,
+    "fields": {
+        "socio": 96,
+        "fecha": "2014-03-17",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 51,
+    "fields": {
+        "socio": 96,
+        "fecha": "2015-02-18",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 52,
+    "fields": {
+        "socio": 96,
+        "fecha": "2016-03-14",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 53,
+    "fields": {
+        "socio": 97,
+        "fecha": "2014-03-28",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 54,
+    "fields": {
+        "socio": 97,
+        "fecha": "2015-03-05",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 55,
+    "fields": {
+        "socio": 97,
+        "fecha": "2016-04-06",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 56,
+    "fields": {
+        "socio": 98,
+        "fecha": "2014-04-22",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 57,
+    "fields": {
+        "socio": 98,
+        "fecha": "2015-06-03",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 58,
+    "fields": {
+        "socio": 99,
+        "fecha": "2014-04-29",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 59,
+    "fields": {
+        "socio": 99,
+        "fecha": "2015-04-15",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 60,
+    "fields": {
+        "socio": 100,
+        "fecha": "2014-05-05",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 61,
+    "fields": {
+        "socio": 100,
+        "fecha": "2015-05-04",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 62,
+    "fields": {
+        "socio": 101,
+        "fecha": "2014-05-15",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 63,
+    "fields": {
+        "socio": 101,
+        "fecha": "2015-05-11",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 64,
+    "fields": {
+        "socio": 102,
+        "fecha": "2014-07-18",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 65,
+    "fields": {
+        "socio": 102,
+        "fecha": "2015-09-24",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 66,
+    "fields": {
+        "socio": 103,
+        "fecha": "2014-07-21",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 67,
+    "fields": {
+        "socio": 103,
+        "fecha": "2015-10-08",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 68,
+    "fields": {
+        "socio": 104,
+        "fecha": "2014-08-05",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 69,
+    "fields": {
+        "socio": 104,
+        "fecha": "2015-09-22",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 70,
+    "fields": {
+        "socio": 105,
+        "fecha": "2014-08-07",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 71,
+    "fields": {
+        "socio": 105,
+        "fecha": "2015-09-02",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 72,
+    "fields": {
+        "socio": 106,
+        "fecha": "2014-08-07",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 73,
+    "fields": {
+        "socio": 106,
+        "fecha": "2015-08-28",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 74,
+    "fields": {
+        "socio": 107,
+        "fecha": "2014-08-21",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 75,
+    "fields": {
+        "socio": 107,
+        "fecha": "2015-09-02",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 76,
+    "fields": {
+        "socio": 108,
+        "fecha": "2014-09-01",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 77,
+    "fields": {
+        "socio": 109,
+        "fecha": "2014-09-05",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 78,
+    "fields": {
+        "socio": 109,
+        "fecha": "2015-11-04",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 79,
+    "fields": {
+        "socio": 110,
+        "fecha": "2014-09-25",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 80,
+    "fields": {
+        "socio": 110,
+        "fecha": "2015-09-23",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 81,
+    "fields": {
+        "socio": 111,
+        "fecha": "2014-10-02",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 82,
+    "fields": {
+        "socio": 111,
+        "fecha": "2015-09-22",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 83,
+    "fields": {
+        "socio": 112,
+        "fecha": "2014-11-11",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 84,
+    "fields": {
+        "socio": 112,
+        "fecha": "2015-11-19",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 85,
+    "fields": {
+        "socio": 113,
+        "fecha": "2014-12-08",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 86,
+    "fields": {
+        "socio": 113,
+        "fecha": "2015-11-25",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 87,
+    "fields": {
+        "socio": 114,
+        "fecha": "2014-12-18",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 88,
+    "fields": {
+        "socio": 114,
+        "fecha": "2016-01-19",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 89,
+    "fields": {
+        "socio": 115,
+        "fecha": "2015-03-23",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 90,
+    "fields": {
+        "socio": 115,
+        "fecha": "2016-03-11",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 91,
+    "fields": {
+        "socio": 116,
+        "fecha": "2015-04-20",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 92,
+    "fields": {
+        "socio": 117,
+        "fecha": "2015-06-19",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 93,
+    "fields": {
+        "socio": 118,
+        "fecha": "2015-08-12",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 94,
+    "fields": {
+        "socio": 119,
+        "fecha": "2015-09-17",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 95,
+    "fields": {
+        "socio": 120,
+        "fecha": "2015-11-24",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 96,
+    "fields": {
+        "socio": 121,
+        "fecha": "2015-11-24",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 97,
+    "fields": {
+        "socio": 122,
+        "fecha": "2015-11-24",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 98,
+    "fields": {
+        "socio": 123,
+        "fecha": "2015-11-24",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 99,
+    "fields": {
+        "socio": 124,
+        "fecha": "2015-11-24",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 100,
+    "fields": {
+        "socio": 125,
+        "fecha": "2015-11-24",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 101,
+    "fields": {
+        "socio": 126,
+        "fecha": "2015-11-25",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 102,
+    "fields": {
+        "socio": 127,
+        "fecha": "2015-11-25",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 103,
+    "fields": {
+        "socio": 128,
+        "fecha": "2015-11-26",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 104,
+    "fields": {
+        "socio": 129,
+        "fecha": "2015-11-26",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 105,
+    "fields": {
+        "socio": 130,
+        "fecha": "2015-12-16",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 106,
+    "fields": {
+        "socio": 131,
+        "fecha": "2015-12-31",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 107,
+    "fields": {
+        "socio": 132,
+        "fecha": "2016-02-22",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 108,
+    "fields": {
+        "socio": 133,
+        "fecha": "2016-03-01",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 109,
+    "fields": {
+        "socio": 134,
+        "fecha": "2016-03-04",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 110,
+    "fields": {
+        "socio": 135,
+        "fecha": "2016-04-05",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 111,
+    "fields": {
+        "socio": 136,
+        "fecha": "2016-04-06",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 112,
+    "fields": {
+        "socio": 137,
+        "fecha": "2016-05-17",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 113,
+    "fields": {
+        "socio": 138,
+        "fecha": "2016-05-20",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 114,
+    "fields": {
+        "socio": 139,
+        "fecha": "2016-06-01",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 115,
+    "fields": {
+        "socio": 140,
+        "fecha": "2016-06-17",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 116,
+    "fields": {
+        "socio": 141,
+        "fecha": "2016-06-30",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 117,
+    "fields": {
+        "socio": 142,
+        "fecha": "2016-07-04",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 118,
+    "fields": {
+        "socio": 143,
+        "fecha": "2016-07-28",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 119,
+    "fields": {
+        "socio": 144,
+        "fecha": "2016-07-27",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 120,
+    "fields": {
+        "socio": 145,
+        "fecha": "2016-08-21",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 121,
+    "fields": {
+        "socio": 146,
+        "fecha": "2016-08-29",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 122,
+    "fields": {
+        "socio": 147,
+        "fecha": "2016-10-08",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 123,
+    "fields": {
+        "socio": 148,
+        "fecha": "2016-10-10",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 124,
+    "fields": {
+        "socio": 149,
+        "fecha": "2016-10-15",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 125,
+    "fields": {
+        "socio": 105,
+        "fecha": "2016-10-13",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 126,
+    "fields": {
+        "socio": 107,
+        "fecha": "2016-08-30",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 127,
+    "fields": {
+        "socio": 118,
+        "fecha": "2016-10-18",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 128,
+    "fields": {
+        "socio": 92,
+        "fecha": "2016-10-19",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 129,
+    "fields": {
+        "socio": 99,
+        "fecha": "2016-10-19",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 130,
+    "fields": {
+        "socio": 106,
+        "fecha": "2016-10-19",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 131,
+    "fields": {
+        "socio": 116,
+        "fecha": "2016-10-19",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 132,
+    "fields": {
+        "socio": 150,
+        "fecha": "2016-10-25",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 133,
+    "fields": {
+        "socio": 112,
+        "fecha": "2016-10-26",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 134,
+    "fields": {
+        "socio": 76,
+        "fecha": "2016-10-20",
+        "importe": "30.00"
+    }
+},
+{
+    "model": "libro.cuota",
+    "pk": 135,
+    "fields": {
+        "socio": 110,
+        "fecha": "2016-10-25",
+        "importe": "30.00"
+    }
+}
+]
