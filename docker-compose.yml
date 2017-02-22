@@ -1,0 +1,41 @@
+version: "2"
+
+
+services:
+    python-socios-postgres:
+        image: postgres:9.6
+        container_name: python-socios-postgres
+        volumes:
+            - ./db-data:/var/lib/postgresql/data
+        environment:
+            POSTGRES_DB: sociosdb
+        networks:
+            - python-socios-network
+
+    python-socios-back:
+        build:
+            context: .
+            dockerfile: docker/back
+        image: python-socios-back:1.0
+        container_name: python-socios-back
+        command: bash -c "python manage.py migrate && gunicorn -w 6 -t 60 -b 0.0.0.0:5050 main.wsgi --access-logfile gunicorn-access-log --error-logfile gunicorn-error-log --log-level debug"
+        depends_on:
+            - python-socios-postgres
+        networks:
+            - python-socios-network
+
+    python-socios-nginx:
+        build:
+            context: .
+            dockerfile: docker/nginx
+        image: python-socios-nginx:1.0
+        container_name: python-socios-nginx
+        ports:
+            - "5005:5005"
+        networks:
+            - python-socios-network
+
+
+networks:
+    python-socios-network:
+        driver: bridge
