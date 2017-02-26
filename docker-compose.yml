@@ -34,6 +34,8 @@ services:
             - "5005:5005"
         networks:
             - python-socios-network
+        depends_on:
+            - python-socios-back
 
 
 networks:
