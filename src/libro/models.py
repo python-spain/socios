@@ -33,6 +33,7 @@ class Socio(models.Model):
     is_fundador = models.BooleanField(default=False)
     is_activo = models.BooleanField(default=True)
     comentario = models.TextField(blank=True)
+    iban = models.CharField(max_length=30, unique=True, blank=True, null=True)
 
     class Meta:
         verbose_name = "Socio"
